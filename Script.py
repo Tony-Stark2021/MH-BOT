@@ -3,7 +3,7 @@ class script(object):
 """
     HELP_TXT = """ʜᴇʏ {}
 ʜᴇʀᴇ ɪs ᴍʏ ʜᴇʟᴘ ᴄᴏᴍᴍᴀɴᴅs."""
-    ABOUT_TXT = """○ 𝖬𝗒 𝖭𝖺𝗆e : 𝖯𝗈𝗈𝗃𝖺 𝖧𝖾𝗀𝖽𝖾
+    ABOUT_TXT = """○ 𝖬𝗒 𝖭𝖺𝗆e : Manavalam wazeem
 ○ 𝖢𝗋𝖾𝖺𝗍𝗈𝗋 : <a href='https://t.me/aboutme_DK'>Dᴋ 🇮🇳</a>
 ○ 𝖫𝖺𝗇𝗀𝗎𝖺𝗀𝖾 : 𝖯𝗒𝗍𝗁𝗈𝗇 𝟥 
 ○ 𝖫𝗂𝖻𝗋𝖺𝗋𝗒 : 𝖯𝗒𝗋𝗈𝗀𝗋𝖺𝗆 𝖺𝗌𝗒𝗇𝖼𝗂𝗈 𝟢.𝟣𝟩.𝟣 
@@ -106,5 +106,5 @@ Added By - {}
 ID - <code>{}</code>
 Name - {}
 
-𝖫𝗈𝗀 𝖻𝗒 - 𝖯𝗈𝗈𝗃𝖺 𝖧𝖾𝗀𝖽𝖾
+𝖫𝗈𝗀 𝖻𝗒 - Wazeem
 """
